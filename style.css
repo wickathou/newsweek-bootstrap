@@ -1,0 +1,44 @@
+* {
+    border: 1px solid black;
+}
+
+
+/* ////////////////////////////////////////////
+font */
+
+h1 {
+    font-size: 24px
+}
+
+nav h1 {
+    font-size: 21px;
+}
+
+.jumbotron h1 {
+    font-size: 19px;
+}
+
+.jumbotron p {
+    font-size: 15px;
+}
+
+.jumbotron a {
+    font-size: 18px;
+}
+
+h3 {
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+h4 {
+    font-size: 17px;
+    text-transform: capitalize;
+}
+
+h5 {
+    font-size: 18px;
+}
+
+/* ////////////////////////////////////// */
+/* Colors */
