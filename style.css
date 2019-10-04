@@ -41,4 +41,16 @@ h5 {
 }
 
 /* ////////////////////////////////////// */
-/* Colors */
+/* Icons */
+
+.count-link {
+    background: url(https://g.newsweek.com/themes/newsweek/images/icon-slideshows-nw.png) 0 0/contain no-repeat;
+}
+
+
+/* ////////////////////////////////////////// */
+/* Padding/Borders */
+
+.padding-in-row {
+    padding: 0 15px;
+}

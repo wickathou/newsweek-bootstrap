@@ -536,7 +536,7 @@ pre code {
 }
 
 .container {
-  width: 100%;
+  max-width: 1310px;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -568,9 +568,9 @@ pre code {
 }
 
 .container-fluid {
-  width: 100%;
-  padding-right: 15px;
-  padding-left: 15px;
+  max-width: 1310px;
+  padding-right: 0;
+  padding-left: 0;
   margin-right: auto;
   margin-left: auto;
 }
@@ -6412,7 +6412,7 @@ button.bg-success:focus {
 }
 
 .bg-info {
-  background-color: #17a2b8 !important;
+  background-color: #a3a3a3 !important;
 }
 
 a.bg-info:hover, a.bg-info:focus,
