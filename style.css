@@ -1,5 +1,12 @@
+/* CSS Reset */
+
 * {
     border: 1px solid black;
+    list-style: none;
+}
+
+ul {
+    padding-inline-start: 0;
 }
 
 
@@ -51,6 +58,10 @@ h5 {
 /* ////////////////////////////////////////// */
 /* Padding/Borders */
 
-.padding-in-row {
-    padding: 0 15px;
+.padding-in-row-overall {
+    padding: 0;
+}
+
+.padding-in-top-stories {
+    padding-right: 20px;
 }
