@@ -152,14 +152,8 @@ sup {
 }
 
 a {
-  color: #007bff;
   text-decoration: none;
   background-color: transparent;
-}
-
-a:hover {
-  color: #0056b3;
-  text-decoration: underline;
 }
 
 a:not([href]):not([tabindex]) {
@@ -9703,19 +9697,20 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #007bff !important;
+  color: #f72210 !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #0056b3 !important;
+  color: #f72210 !important;
 }
 
 .text-secondary {
-  color: #6c757d !important;
+  color: rgb(0, 0, 0) !important;
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
-  color: #494f54 !important;
+  text-decoration: #f72210 underline;
+  color: #000000 !important;
 }
 
 .text-success {
@@ -9727,7 +9722,7 @@ a.text-success:hover, a.text-success:focus {
 }
 
 .text-info {
-  color: #17a2b8 !important;
+  color: rgba(3,3,3,.4) !important;
 }
 
 a.text-info:hover, a.text-info:focus {
