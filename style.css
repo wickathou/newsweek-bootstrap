@@ -55,6 +55,14 @@ h5 {
     font: 16px/34px "Roboto Condensed",sans-serif;
 }
 
+.n-title{
+    font: bold 19px/19px "Roboto Condensed",sans-serif;
+    margin-bottom: 15px;
+}
+
+.in-the-magazine h5 {
+    font: bold 18px/18px "Roboto Condensed",sans-serif;
+}
 
 /* //////////////////////////////////////////////// */
 /* Color  */
@@ -70,6 +78,22 @@ h5 {
     background: url(https://g.newsweek.com/themes/newsweek/images/icon-slideshows-nw.png) 0 0/contain no-repeat;
 }
 
+.icon-n {
+    background: url(https://g.newsweek.com/www/images/logo-n1.svg) center/contain no-repeat #f72210;
+    width: 29px;
+    height: 28px;
+    margin-right: 10px;
+}
+
+.slide-icon {
+    width: 29px;
+    height: 28px;
+    border-bottom: 3px solid red;
+    border-right: 3px solid red;
+    position: absolute;
+    bottom: -4px;
+    left: 4px;
+}
 
 /* ////////////////////////////////////////// */
 /* Padding/Borders/Size */
@@ -105,8 +129,18 @@ h5 {
 }
 
 .col-4 .image {
-    width: 340px;
-    height: 228px;
+    width: 100%;
+    /* height: 228px; */
+}
+
+.col-5 .image {
+    width: 100%;
+    /* height: 310px; */
+}
+
+.col-3 .image {
+    width: 100%;
+    /* height: 310px; */
 }
 
 /* //////////////////////////////////////////////// */
@@ -142,5 +176,61 @@ h5 {
 }
 
 .img-caption {
+    text-transform: uppercase;
+    padding: 5px 10px;
+    font: bold 17px/16px "Roboto Condensed",sans-serif;
+    color: #f72210;
+}
+
+.img-caption-slideshows {
+    text-transform: uppercase;
+    padding: 5px 10px;
+    font: bold 17px/16px "Roboto Condensed",sans-serif;
+    color: #f72210;
+    bottom: 0;
+    left: 0;
+}
+
+.magazine-section-tag {
+    padding: 5px 10px;
+    font: bold 16px/26px "Roboto Condensed",sans-serif;
+}
+
+.featured-slideshows h2 {
+    font: bold 22px/22px "Roboto Condensed",sans-serif;
+}
+
+.articles-section h2 {
+    font: bold 22px/22px "Roboto Condensed",sans-serif;
+}
+
+.articles-section h4 {
+    font: bold 17px/21px "Roboto Condensed",sans-serif;
+}
+
+.articles-section .text-primary {
+    font: bold 22px/22px "Roboto Condensed",sans-serif;
+}
+
+.section-hover:hover{
+    color: #f72210;
+    cursor: pointer;
+}
+
+.col-4 .img-caption {
     top: 204px;
+}
+
+.col-5 .img-caption {
+    top: 242px;
+}
+
+.col-3 .img-caption {
+    bottom: 0;
+    left: 0;
+}
+
+.section-tag {
+    width: fit-content;
+    padding: 0 6px;
 }
