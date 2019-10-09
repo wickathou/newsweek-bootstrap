@@ -2414,14 +2414,14 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #f72210;
+  border-color: #f72210;
 }
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #0069d9;
-  border-color: #0062cc;
+  background-color: #c21c0c;
+  border-color: #c21c0c;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -2447,15 +2447,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-secondary {
-  color: #fff;
-  background-color: #6c757d;
-  border-color: #6c757d;
+  color: #f72210;
+  background-color: #fff;
+  border-color: #fff;
 }
 
 .btn-secondary:hover {
-  color: #fff;
-  background-color: #5a6268;
-  border-color: #545b62;
+  color: #f72210;
+  background-color: #fff;
+  border-color: #fff;
 }
 
 .btn-secondary:focus, .btn-secondary.focus {
@@ -2482,14 +2482,14 @@ fieldset:disabled a.btn {
 
 .btn-success {
   color: #fff;
-  background-color: #28a745;
-  border-color: #28a745;
+  background-color: #666;
+  border-color: #666;
 }
 
 .btn-success:hover {
   color: #fff;
-  background-color: #218838;
-  border-color: #1e7e34;
+  background-color: #999;
+  border-color: #999;
 }
 
 .btn-success:focus, .btn-success.focus {
@@ -6402,7 +6402,7 @@ button.bg-secondary:focus {
 a.bg-success:hover, a.bg-success:focus,
 button.bg-success:hover,
 button.bg-success:focus {
-  background-color: #888 !important;
+  background-color: rgb(204, 204, 204) !important;
 }
 
 .bg-info {
