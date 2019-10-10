@@ -55,10 +55,10 @@ module.exports = {
       ignore: [
         "after-comment",
         "inside-single-line-block",
+        "function-comma-space-after",
       ],
     } ],
     "function-comma-newline-after": "always-multi-line",
-    "function-comma-space-after": "never",
     "function-comma-space-before": "never",
     "function-max-empty-lines": 0,
     "function-name-case": "lower",

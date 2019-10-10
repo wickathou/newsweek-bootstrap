@@ -104,7 +104,7 @@ h5 {
 
 .culture p {
     font: 15px/20px "Helvetica Neue","Helvetica",Arial,sans-serif;
-    color: rgba(39,39,39,.5);
+    color: rgba(39,39,39,0.5);
     margin-bottom: 10px;
 }
 
@@ -277,7 +277,6 @@ h5 {
 .social-icons {
     font-size: 24px;
 }
-
 
 .search-icon {
     background: url(https://g.newsweek.com/www/images/icon-search-glass.svg) center/contain no-repeat white;
