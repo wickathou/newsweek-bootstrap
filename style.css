@@ -18,16 +18,16 @@ ul {
     display: block;
 }
 
+/* //////////////////////////////////////////// */
 
-/* ////////////////////////////////////////////
-font */
+/* font */
 
 body {
     font-family: Arial,Helvetica,sans-serif;
 }
 
 h1 {
-    font-size: 24px
+    font-size: 24px;
 }
 
 nav h1 {
@@ -77,7 +77,7 @@ h5 {
     cursor: pointer;
 }
 
-.n-title{
+.n-title {
     font: bold 19px/19px "Roboto Condensed",sans-serif;
     margin-bottom: 15px;
 }
@@ -128,7 +128,7 @@ h5 {
 .opinion h5 {
     text-transform: uppercase;
     font: bold 14px/21px "Roboto Condensed",sans-serif;
-    color: #555
+    color: #555;
 }
 
 .img-caption {
@@ -194,7 +194,7 @@ h5 {
     font: bold 18px/18px "Roboto Condensed",sans-serif;
 }
 
-.section-hover:hover{
+.section-hover:hover {
     color: #f72210;
     cursor: pointer;
 }
@@ -224,7 +224,9 @@ h5 {
 }
 
 /* //////////////////////////////////////////////// */
+
 /* Color/Decoration  */
+
 .fill-secondary {
     fill: #fff;
 }
@@ -247,6 +249,7 @@ h5 {
 }
 
 /* ////////////////////////////////////// */
+
 /* Icons/background */
 
 .icon-n {
@@ -286,6 +289,7 @@ h5 {
 }
 
 /* ////////////////////////////////////////// */
+
 /* Padding/Borders/Marging/Size */
 
 .img-latest-news {
@@ -305,11 +309,11 @@ h5 {
 }
 
 .margin-right-15px {
-    margin-right: 15px
+    margin-right: 15px;
 }
 
-.responsive-margin-top-10-55px{
-    margin-top: 10px
+.responsive-margin-top-10-55px {
+    margin-top: 10px;
 }
 
 .margin-top-100px {
@@ -320,7 +324,7 @@ h5 {
     padding: 0;
 }
 
-.padding-horizontal-30px{
+.padding-horizontal-30px {
     padding: 0 30px;
 }
 
@@ -353,12 +357,12 @@ h5 {
     padding-right: 20px;
 }
 
-.top-nav .nav-logo{
+.top-nav .nav-logo {
     padding-top: 20px;
     padding-bottom: 15px;
 }
 
-.top-nav .nav-menu{
+.top-nav .nav-menu {
     width: 90%;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -418,6 +422,7 @@ h5 {
 }
 
 /* //////////////////////////////////////////////// */
+
 /* Justify/Align/Position */
 
 .fixed-nav {
@@ -451,7 +456,7 @@ h5 {
     position: relative;
 }
 
-.section-nav .pos-abs{
+.section-nav .pos-abs {
     top: 0;
     right: 104px;
 }
@@ -471,6 +476,7 @@ h5 {
 }
 
 /* ////////////////////////////////////////////////////////// */
+
 /* Responsive  */
 
 @media (max-width: 1110px) {
