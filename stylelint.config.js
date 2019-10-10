@@ -83,7 +83,11 @@ module.exports = {
     "property-case": "lower",
     "rule-empty-line-before": [ "always-multi-line", {
       except: ["first-nested"],
-      ignore: ["after-comment"],
+      ignore: [
+        "after-comment",
+        "selector-list-comma-newline-after",
+        "value-list-comma-space-after",
+      ],
     } ],
     "selector-attribute-brackets-space-inside": "never",
     "selector-attribute-operator-space-after": "never",
@@ -91,7 +95,6 @@ module.exports = {
     "selector-combinator-space-after": "always",
     "selector-combinator-space-before": "always",
     "selector-descendant-combinator-no-non-space": true,
-    "selector-list-comma-newline-after": "always",
     "selector-list-comma-space-before": "never",
     "selector-max-empty-lines": 0,
     "selector-pseudo-class-case": "lower",
@@ -101,7 +104,6 @@ module.exports = {
     "selector-type-case": "lower",
     "unit-case": "lower",
     "value-list-comma-newline-after": "always-multi-line",
-    "value-list-comma-space-after": "always-single-line",
     "value-list-comma-space-before": "never",
     "value-list-max-empty-lines": 0,
   },
