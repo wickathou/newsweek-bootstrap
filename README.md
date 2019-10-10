@@ -54,6 +54,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Project Link: [https://github.com/wickathou/new-york-times](https://github.com/wickathou/newsweek-bootsstrap)
 
+Live preview: [https://wickathou.github.io/newsweek-bootstrap/index.html]
+
 
 
 <!-- ACKNOWLEDGEMENTS -->
