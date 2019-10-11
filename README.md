@@ -16,9 +16,9 @@ A the Newsweek website built using bootstrap
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 # Newsweek Bootstrap
-A clone page of a New York Times article page using HTML and CSS.
+A clone page of the Newsweek landing page using HTML and CSS.
 
-The page is fully responsive using Bootstrap and CSS float rules to control the page. The project was made as part of the Microverse curriculum.
+The page is fully responsive using Bootstrap. The project was made as part of the Microverse curriculum.
 
 Features:
 
