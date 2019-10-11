@@ -52,7 +52,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 @wickathou - Javier Hernandez
 
-Project Link: [https://github.com/wickathou/new-york-times](https://github.com/wickathou/newsweek-bootsstrap)
+Project Link: [https://github.com/wickathou/newsweek-bootstrap](https://github.com/wickathou/newsweek-bootstrap)
 
 
 
