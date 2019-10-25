@@ -1,11 +1,11 @@
 /* CSS Reset */
 
-* {
-    list-style: none;
+ul {
+  list-style: none;
 }
 
-ul {
-    padding-inline-start: 0;
+ul li {
+  padding-inline-start: 0;
 }
 
 /* Responsive rules  */
